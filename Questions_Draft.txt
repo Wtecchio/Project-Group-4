@@ -1,0 +1,35 @@
+X
+Budget
+Genre
+Services
+Age-rating (Pg, Pg13)
+Original titles
+Years
+Country
+
+
+Y
+Ratings
+Quantity of movies
+Quanitity of reviews
+Revenue
+
+
+Question 1 "Streamings(Age_ratings) v Quantity of age rating + review avg rating + " (Bar graphs) [Comparing Streaming services to the quanitity of reviews + the review average] "Kaggle"
+Jenny, Hee
+
+
+Question 2 "Years v Movie rating quantity + Movie rating avg" (bar graph) [Comparing movies relesased in the last 10 years] 
+"Kaggle + DB"
+Aimee, Austin
+
+
+
+Question 3 "Genre v Quantity + review + revenue" (scatter plot graph) [Comparing overall-genre results by year last 10]
+"Kaggle + DB" 
+William, Preston
+
+
+Question 4 "Countries(over years) v quanitity + revenue" (bar or pie graph) [Comparing movie release within countries in the past 10 years]
+"Kaggle + DB"
+Josh, Lennox
