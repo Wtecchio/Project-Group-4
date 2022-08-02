@@ -177,5 +177,6 @@ Year 2013 had the most average vote count. However, average vote count decreased
 
 <p>Question 1: After analying the graph, Netflix is the dominate streaming services in total number of movies, age ratings, and star ratings, followed closely by Prime Video.</p>
 <p>Question 2: We can conclude that due to competitiveness of the movie industry, the quality of movies has improved whereas the increased quantity of movies produced has resulted in a decrease of movie interactions.</p>
-Question 3: 
-Question 4: 
+<p>Question 3: Drama leads in quantity while having a lower average popularity compared to “Adventure and Fantasy”; possibly because of trends like Marvel or Game of Thrones</p>
+<p>Question 4:  The United States produces the vast majority of films, with Canada, the UK, and India following suit</p>
+
