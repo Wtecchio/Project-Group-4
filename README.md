@@ -133,6 +133,11 @@ From the last 10 years, 2021 had the most yearly average of mean votes of 6.77, 
 Year 2013 had the most average vote count. However, average vote count decreased gradually. 2020 had the least average vote count.
 
 ### Question 3: Which services have the best content based on genres?
+William looks into the popularity and movie count as it relates to the genre of the movie. His <a href="Question 3/GenreStats.ipynb">code</a> uses the data from both the Kaggle dataset and TMDB API to view the data distribution among the genres available on the API.
+
+The overall idea is to show:
+* Which genre is dominating in the movie production industry
+* Which genre has a higher popularity
 
 ---------------------------------------------------------
 
