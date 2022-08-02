@@ -81,11 +81,15 @@ Given our dataset, we've generated the following graphs:
 
 <img src="Question 1 Over'rated'/data/movies_per_service.png" width="500">
 
+Netflix has the most movie count compared to Prime Video, Hulu, and Disney+.
+
 ---------------------------------------------------------
 
 <b>Number of Movies per Age Rating</b>
 
 <img src="Question 1 Over'rated'/data/age_per_services.png" width="500">
+
+Netflix has the most number of movies in every age rating.
 
 ---------------------------------------------------------
 
@@ -93,12 +97,15 @@ Given our dataset, we've generated the following graphs:
 
 <img src="Question 1 Over'rated'/data/movies_per_star.png" width="500">
 
+Based on rotten tomatoes, the most movie count were rated three stars, followed by four stars.
+
 ---------------------------------------------------------
 
 <b>Movie Counts based on Star Rating per Streaming Service</b>
 
 <img src="Question 1 Over'rated'/data/star_moviecount.png" width="500">
 
+Netflix has significantly high ratings on four star and five star ratings compared to other streaming services.
 
 ### Question 2: How have movies improved(ratings) and have customer interactions increased?
 Austin and Aimee explore how movie ratings have changed and whether or not more people have interacted with a movie over a 10-year period. The <a href="Project-Group-4/Question 2/Question 2(with Graphs).ipynb">code</a> generates charts to show how the movie ratings and interactions have changed over the 10 years. Our goal was also to see how COVID may have affected these interations.
@@ -115,11 +122,15 @@ Given our dataset, we've generated the following graphs:
 
 <img src="Question 2/Question2.1.PNG" width="500">
 
+From the last 10 years, 2021 had the most yearly average of mean votes of 6.77, which gradually increased since 2012.
+
 ---------------------------------------------------------
 
 <b>Average Vote Count by Year</b>
 
 <img src="Question 2/Question 2,2.PNG" width="500">
+
+Year 2013 had the most average vote count. However, average vote count decreased gradually. 2020 had the least average vote count.
 
 ### Question 3: Which services have the best content based on genres?
 
@@ -161,3 +172,8 @@ Given our dataset, we've generated the following graphs:
 <img src="Question 4/Images/ReviewCount.png" width="500">
 
 ## Conclusions
+
+Question 1: After analying the graph, Netflix is the dominate streaming services in total number of movies, age ratings, and star ratings, followed closely by Prime Video.
+Question 2: We can conclude that due to competitiveness of the movie industry, the quality of movies has improved whereas the increased quantity of movies produced has resulted in a decrease of movie interactions.
+Question 3: 
+Question 4: 
