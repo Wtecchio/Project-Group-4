@@ -134,8 +134,6 @@ Year 2013 had the most average vote count. However, average vote count decreased
 
 ### Question 3: Which services have the best content based on genres?
 
-<a href="">code</a>
-
 ---------------------------------------------------------
 
 <b>Quantity of Movie by Genre</b>
@@ -144,36 +142,40 @@ Year 2013 had the most average vote count. However, average vote count decreased
 
 ---------------------------------------------------------
 
-<b></b>
+<b>Genre by Popularity</b>
 
-<img src="" width="500">
+<img src="Question 3/Images/boxNwhiskers.png" width="500">
 
 
 ### Question 4: Which countries produce the most films and revenue?
 
-<a href="">code</a>
+---------------------------------------------------------
+
+<b>Movie Revenue by Country</b>
+
+<img src="Question 4/barwithUS.png" width="500">
 
 ---------------------------------------------------------
 
-<b>Average Review of Movies by Language</b>
+<b>Movie Revenue by Country (Without US)</b>
 
-<img src="Question 4/Images/AverageReview.png" width="500">
-
----------------------------------------------------------
-
-<b></b>
-
-<img src="Question 4/Images/BoxPlot.png" width="500">
+<img src="Question 4/barwithoutUS.png" width="500">
 
 ---------------------------------------------------------
 
-<b>Sum of Review Count by Movie Language</b>
+<b>Movie Quantity by Country</b>
 
-<img src="Question 4/Images/ReviewCount.png" width="500">
+<img src="Question 4/piewithUS.png" width="500">
+
+---------------------------------------------------------
+
+<b>Movie Quantity by Country (Without US)</b>
+
+<img src="Question 4/piewithoutUS.png" width="500">
 
 ## Conclusions
 
-Question 1: After analying the graph, Netflix is the dominate streaming services in total number of movies, age ratings, and star ratings, followed closely by Prime Video.
-Question 2: We can conclude that due to competitiveness of the movie industry, the quality of movies has improved whereas the increased quantity of movies produced has resulted in a decrease of movie interactions.
+<p>Question 1: After analying the graph, Netflix is the dominate streaming services in total number of movies, age ratings, and star ratings, followed closely by Prime Video.</p>
+<p>Question 2: We can conclude that due to competitiveness of the movie industry, the quality of movies has improved whereas the increased quantity of movies produced has resulted in a decrease of movie interactions.</p>
 Question 3: 
 Question 4: 
