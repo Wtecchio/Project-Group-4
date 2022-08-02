@@ -127,12 +127,14 @@ Given our dataset, we've generated the following graphs:
 
 ---------------------------------------------------------
 
-<b></b>
-<img src="" width="500">
+<b>Quantity of Movie by Genre</b>
+
+<img src="Question 3/Images/GenreBarPlot.png" width="500">
 
 ---------------------------------------------------------
 
 <b></b>
+
 <img src="" width="500">
 
 
@@ -142,12 +144,20 @@ Given our dataset, we've generated the following graphs:
 
 ---------------------------------------------------------
 
-<b></b>
-<img src="" width="500">
+<b>Average Review of Movies by Language</b>
+
+<img src="Question 4/Images/AverageReview.png" width="500">
 
 ---------------------------------------------------------
 
 <b></b>
-<img src="" width="500">
+
+<img src="Question 4/Images/BoxPlot.png" width="500">
+
+---------------------------------------------------------
+
+<b>Sum of Review Count by Movie Language</b>
+
+<img src="Question 4/Images/ReviewCount.png" width="500">
 
 ## Conclusions
