@@ -175,13 +175,13 @@ The overall idea is to show:
 
 <b>Movie Quantity by Country</b>
 
-<img src="Question 4/piewithUS.png" width="500">
+<img src="Question 4/piewus.jpg" width="500">
 
 ---------------------------------------------------------
 
 <b>Movie Quantity by Country (Without US)</b>
 
-<img src="Question 4/piewithoutUS.png" width="500">
+<img src="Question 4/piewoUS.jpg" width="500">
 
 ## Conclusions
 
