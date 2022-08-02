@@ -163,13 +163,13 @@ The overall idea is to show:
 
 <b>Movie Revenue by Country</b>
 
-<img src="Question 4/barwithUS.png" width="500">
+<img src="Question 4/barwithus.jpg" width="500">
 
 ---------------------------------------------------------
 
 <b>Movie Revenue by Country (Without US)</b>
 
-<img src="Question 4/barwithoutUS.png" width="500">
+<img src="Question 4/barwous.jpg" width="500">
 
 ---------------------------------------------------------
 
