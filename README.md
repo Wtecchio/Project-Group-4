@@ -78,21 +78,25 @@ Given our dataset, we've generated the following graphs:
 ---------------------------------------------------------
 
 <b>Total Movies per Streaming Services</b>
+
 <img src="Question 1 Over'rated'/data/movies_per_service.png" width="500">
 
 ---------------------------------------------------------
 
 <b>Number of Movies per Age Rating</b>
+
 <img src="Question 1 Over'rated'/data/age_per_services.png" width="500">
 
 ---------------------------------------------------------
 
 <b>Total Movies per Star Rating based by Rotten Tomatoes</b>
+
 <img src="Question 1 Over'rated'/data/movies_per_star.png" width="500">
 
 ---------------------------------------------------------
 
 <b>Movie Counts based on Star Rating per Streaming Service</b>
+
 <img src="Question 1 Over'rated'/data/star_moviecount.png" width="500">
 
 
@@ -108,12 +112,14 @@ Given our dataset, we've generated the following graphs:
 ---------------------------------------------------------
 
 <b>Yearly Average of Mean Votes</b>
-<img src="Project-Group-4/Question 2/Question2.1.PNG" width="500">
+
+<img src="Question 2/Question2.1.PNG" width="500">
 
 ---------------------------------------------------------
 
 <b>Average Vote Count by Year</b>
-<img src="Project-Group-4/Question 2/Question 2,2.PNG" width="500">
+
+<img src="Question 2/Question 2,2.PNG" width="500">
 
 ### Question 3: Which services have the best content based on genres?
 
